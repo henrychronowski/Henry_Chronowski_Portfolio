@@ -1,0 +1,5 @@
+# Henry_Chronowski_Portfolio/BRUCE
+
+"Become Relaxed Using Coping Exercises" (B.R.U.C.E.) is a tool to be used in the context of a counsellor providing therapy to teach a 1st-3rd grade student simple coping mechanisms for general anxiety. The individual playing this game may or may not be diagnosed with General Anxiety Disorder or a variant of it. The player will be presented with a choice of different coping mechanisms to learn and will be guided through practising the one they choose to learn in the form of a point and click game. This game is not intended as an educational tool for GAD itself as it is only intended to be used in context by a licensed counsellor specifically to teach simple coping mechanisms.
+
+B.R.U.C.E. was developed by a four person team on which I was the scrum master, although I did assist the team's programmer on a few aspects due to the small team size and created the Git pipeline for the project. Developing this was a different kind of challenge than what I've ever tried before, and I personally learned a great deal from the experience about how to develop for an audience that isn't yourself.
