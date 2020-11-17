@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Laser
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Rope
+  - Pivot
+  - Player
+  - Ground
+  - jumpTrigger
+  - Laser
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 3162387689
+    locked: 0
+  - name: Enemies
+    uniqueID: 1519265425
+    locked: 0
+  - name: Laser
+    uniqueID: 1826270349
+    locked: 0
+  - name: Player
+    uniqueID: 772472745
+    locked: 0
+  - name: UI
+    uniqueID: 371494827
+    locked: 0
