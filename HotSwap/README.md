@@ -1,0 +1,8 @@
+# Henry_Chronowski_Portfolio/HotSwap
+
+Hot Swap is a 3D VR game where the player is a teenager who is trying to hide all of the illicit items in their room before their mom gets home!
+
+I worked on Hot Swap as a 48 hour game jam during my fall 2019 semester at Champlain as a member of a 10 person team. During the extent of the jam I was the scrum master for the team and programmed the actual VR controls and movement utilizing the SteamVR plugin for Unity. In addition to this I also managed the team's pipelines for getting art assets into the game.
+The result of the jam is a working sandbox with most of the core mechanics implemented. I and a few other members of the team have been working sporadically on this project since the jam and plan to continue polishing it.
+
+Overall this project was a success although we ran into many hurdles. This was the first time working in VR for a majority of the team so it took a great deal of work to get everyone up to speed on the requirements, and we also ran into many issues actually getting 3D assets into our Unity project. Honestly the largest outcome of this project was achieving a concrete idea of a pipeline to get art assets in engine which has influenced every project that I have worked on since. If I had to list one thing that I learned from this project it would be the duality that if you want to achieve a large scope you have to know your tools beforehand, but the best way to learn is to fail often and fail fast.
